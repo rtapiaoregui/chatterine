@@ -6,7 +6,7 @@ Created on Tue Feb  5 19:31:13 2019
 @author: rita
 
 File with all the functions used in logic and main
-(expect for the one to predict the labels of new observations).
+(except for the one to predict the labels of new observations).
 
 """
 

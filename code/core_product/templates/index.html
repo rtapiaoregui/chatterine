@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>chatterine</title>
+	<link rel='icon' href='/static/icono.png' type='image/png' />
+	<style>
+	
+	html {
+      background-image: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,.7)), url({{ url_for('static', filename="background.jpg") }});
+      background-size: 2500px 4000px;
+    }
+    
+    p.ex1 {
+      margin: 35px;
+      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+      font-size:13pt;
+      color: #000000;
+      font-weight: bold;
+    }
+
+    span.loading {
+        display: none;
+        width: 100%;
+        height: 100%;
+        position: relative;
+    }
+    
+    #link_wrapper { width:30%; margin:0 auto; }
+    .clickme {
+      margin: 0 auto;
+      text-align:center;
+      border: none;
+      font-family: "Lucida Console", Monaco, monospace;
+      font-weight: bold;
+      padding: 25px 15px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.4s;
+      cursor: pointer;
+    }
+    .button {
+      background-color: transparent; 
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 10px;
+      color: #0b3472; 
+      border: 4px solid #adbcd3;
+    }
+    
+    .button:hover {
+      background-color: #305282;
+      color: #d7e3f4;
+    }
+        
+
+    img {
+      display: block;
+      opacity: 0.6;
+      margin-left: auto;
+      margin-right: auto;
+      width: 15%;
+    }
+        
+    input[type=text] {
+      -webkit-transition: width .35s ease-in-out;
+      transition: width .35s ease-in-out;
+      padding: 18px 15px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      font-size: 14pt;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      spellcheck: true;
+    }
+
+    input[type=text]:focus {
+      width: 600px;
+    }
+    
+    input.ex1 {
+      display: block;
+      margin: 10px auto 10px auto;
+      border-radius: 0;
+      border: 0;
+      outline: 0;
+      background: transparent;
+      border-bottom: 3px solid orange;
+      position: relative; 
+      left: 20%; 
+      top: 50%; 
+      border-radius: 8px 35px;
+      width: 400px;
+      height: 55px; 
+    }
+    
+    input:-webkit-autofill {
+      -webkit-text-fill-color: #575475;
+      -webkit-box-shadow: 0 0 0px 1000px orange inset;
+    }
+    
+    </style>
+
+    
+    <script type="text/javascript">
+        function trigger(){
+            document.getElementById("user_query").style.display = "none";
+            document.getElementById("load").style.display = "block"; 
+            document.getElementById("load").scrollIntoView(true); 
+            };    
+    </script>
+      
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            var node = document.getElementById("toBeScrolledTo");    
+            node.scrollIntoView(true); 
+            document.getElementById("user_query").focus();    
+    
+        });   
+    </script>   
+
+
+</head>	    
+
+	
+<body>
+
+    <div id="first_info">
+    <p class="ex1">
+    <br>Hi, this is where you talk to me, the bot–slash–oracle that can provide you with a window to Rita, the applicant, hopefully one that lets you get a better picture of who she is, where she comes from, where she has chosen to belong, what she has accomplished so far and what she hopes lies ahead of her than the one you can develop based on the shreds of info you have been able to collect from her online presence. 
+    <br><br>
+    Like all sages worthy of the name, I also talk in riddles. So don't blame all the obscurity of the discourse on her. 
+    <br><br>
+    And while on the topic of you having to bear with me, you should know it takes me a few seconds to return from my hibernation mode and gather myself to engage in conversation with you.
+    </p>
+    </div>
+    
+    <div id="content">
+    {% for segment in session.messages %}
+        <tr>
+          <td id = "right"><p class="ex1" style="color:#8E5454">{{segment.in}}</p></td>
+          <td id = "left"><p class="ex1">{{segment.out | safe}}</p></td>  
+        </tr>
+        {% endfor %}
+    
+    {% if session.session == 666 %}
+        <div id="link_wrapper">
+        <br>
+        <a href="https://github.com/rtapiaoregui" target="_blank" class="clickme button">Take me to where you are dissected, figuratively speaking, of course, always.</a>
+        <br><br><br><br id="toBeScrolledTo">
+        </div>
+    {% else %}
+        <form id="formal" action="" method= "POST" onsubmit="trigger()">    
+        <input type="text" id="user_query" name="user_query" class="ex1">
+        <br><br><br><br id="toBeScrolledTo">
+        <span id ="load" class="loading"><img class="manImg" src="../static/thinking_bot.gif" alt="thinking_bot"></img></span>
+        </form> 
+    {% endif %} 
+    </div>
+
+
+
+</body>
+
+</html>

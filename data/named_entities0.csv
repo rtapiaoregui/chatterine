@@ -1,0 +1,421 @@
+0_programming_langs_,Python
+0_programming_langs_,R
+0_programming_langs_,SQL
+0_programming_langs_,Java
+0_programming_langs_,JavaScript
+0_programming_langs_,Perl
+0_programming_langs_,Swift
+0_programming_langs_,Rust
+0_programming_langs_,Ruby
+0_programming_langs_,node.js
+0_programming_langs_,django
+0_programming_langs_,Octave
+0_programming_langs_,Matlab
+0_programming_langs_,Scala
+0_programming_langs_,C
+0_programming_langs_,Fortran
+0_programming_langs_,Scala
+0_programming_langs_,NoSQL
+0_programming_langs_,PHP
+0_programming_langs_,HTML
+0_programming_langs_,css
+0_programming_langs_,tensorflow
+0_programming_langs_,programming language
+0_programming_langs_,computer language
+0_tech_,Kubernetes
+0_tech_,version control
+0_tech_,git
+0_tech_,svn
+0_tech_,hadoop
+0_tech_,Unix
+0_tech_,Linux
+0_tech_,System administration
+0_tech_,Dev ops
+0_tech_,Kafka
+0_tech_,Docker
+0_tech_,api
+0_tech_,open-source software
+0_tech_,Apache
+0_tech_,AWS
+0_tech_,GPU
+0_tech_,CPU
+0_tech_,SRE
+0_tech_,SPSS
+0_tech_,IDE
+0_tech_,REST
+0_tech_,RESTful
+0_tech_,Tableau
+0_tech_,Qlikview
+0_tech_,IBM Cognos
+0_tech_,SAP
+0_tech_,MongoDB
+0_tech_,software package
+0_tech_,Tableau
+0_tech_,Qlikview
+0_tech_,Looker
+0_tech_,Cognos
+0_NLP_,Natural language processing
+0_NLP_,natural language generating
+0_NLP_,natural language understanding
+0_NLP_,NLG
+0_NLP_,NLU
+0_machine_learning_,ml
+0_machine_learning_,machine learning
+0_machine_learning_,data science
+0_artificial_intelligence_,ai
+0_artificial_intelligence_,artificial intelligence
+0_ML_tool_,ml tool
+0_ML_tool_,sklearn
+0_ML_tool_,logistic regression
+0_ML_tool_,classifier
+0_ML_tool_,regressor
+0_ML_tool_,gensim
+0_ML_tool_,spacy
+0_ML_tool_,keras
+0_ML_tool_,xgboost
+0_ML_tool_,random forest
+0_ML_tool_,sklearn
+0_neural_nets_,nn
+0_neural_nets_,neural network
+0_neural_nets_,deep learning
+0_neural_nets_,word to vec
+0_neural_nets_,word to vector
+0_neural_nets_,doc to vec 
+0_neural_nets_,document to vector
+0_neural_nets_,embeddings
+0_neural_nets_,seq2seq
+0_neural_nets_,sequence to sequence
+0_neural_nets_,seq seq
+0_neural_nets_,word2vec
+0_neural_nets_,doc2vec
+0_neural_nets_,lstm
+0_neural_nets_,convolutional layers
+0_neural_nets_,gru
+0_neural_nets_,pooling layers
+0_neural_nets_,RNN
+0_neural_nets_,recurring neural networks
+0_VA_providers_,rasa
+0_VA_providers_,dialogflow
+0_VA_providers_,watson
+0_VA_providers_,wit.ai
+0_VA_providers_,luis.ai
+0_engineer_,programmer
+0_engineer_,developer
+0_university_,college
+0_university_,uni
+0_project_,initiative
+0_before_,previously
+0_image_,picture
+0_arab_world_,arab world
+0_arab_world_,arab country
+0_arab_world_,arabic world
+0_arab_world_,arabic country
+0_arab_world_,islamic world
+0_arab_world_,islamic country
+0_arab_world_,muslim country
+0_genital_,dick
+0_genital_,cock
+0_genital_,prick
+0_genital_,knob
+0_genital_,chopper
+0_genital_,genital
+0_genital_,willy
+0_genital_,pecker
+0_genital_,wiener
+0_genital_,penis
+0_genital_,vagina
+0_genital_,fanny
+0_genital_,pussy
+0_genital_,quim
+0_genital_,lady part
+0_genital_,twat
+0_genital_,snatch
+0_genital_,minge
+0_genital_,snake
+0_other_languages_,japanese
+0_other_languages_,chinese
+0_other_languages_,korean
+0_other_languages_,hebrew
+0_other_languages_,aramaic
+0_other_languages_,french
+0_other_languages_,italian
+0_other_languages_,portuguese
+0_other_languages_,serbian
+0_other_languages_,sanscrit
+0_other_languages_,hindi
+0_other_languages_,turkish
+0_brave_,courageous
+0_brave_,plucky
+0_brave_,bold
+0_brave_,fearless
+0_brave_,unflinching
+0_brave_,unafraid
+0_brave_,resolute
+0_brave_,gutsy
+0_brave_,ballsy
+0_nice_,amazing
+0_nice_,cool
+0_nice_,awesome
+0_nice_,incredible
+0_nice_,spectacular
+0_nice_,outstanding
+0_nice_,remarkable
+0_nice_,fine
+0_nice_,beautiful
+0_nice_,fantastic
+0_nice_,cute
+0_strange_,odd
+0_strange_,weird
+0_strange_,abnormal
+0_strange_,uncommon
+0_strange_,unusual
+0_strange_,uncanny
+0_good_,satisfactory
+0_good_,acceptable
+0_good_,adequate
+0_good_,competent
+0_good_,adept
+0_good_,accomplished
+0_good_,proficient
+0_good_,skilful
+0_good_,talented
+0_good_,gifted
+0_good_,adroit
+0_good_,deft
+0_jose_,he
+0_jose_,Jose
+0_jose_,Joseph
+0_jose_,Johan
+0_jose_,husband
+0_jose_,hubby
+0_jose_,boyfriend
+0_jose_,fiance
+0_jose_,better half
+0_familiy_,sister
+0_familiy_,sibling
+0_familiy_,brother
+0_familiy_,mother
+0_familiy_,mom
+0_familiy_,grandmother
+0_grandpa_,grandfather
+0_grandpa_,dad
+0_grandpa_,granddad
+0_grandpa_,father
+0_humankind_,human
+0_master_,creator
+0_master_,designer
+0_bot_,chatbot
+0_bot_,botty
+0_bot_,bottie
+0_bot_,VA
+0_bot_,virtual assistant
+0_bot_,chatterine
+0_alexa_,siri
+0_alexa_,cortana
+0_not_,nt
+0_not_,n't
+0_have_,have received
+0_have_,possess
+0_have_,acquire
+0_have_,boast
+0_have_,own
+0_give_,offer
+0_give_,provide
+0_give_,provide with
+0_give_,share with
+0_give_,supply with
+0_give_,gift with
+1_start_,begin
+1_start_,kick off
+1_start_,initiate
+1_end_,stop
+1_end_,cease
+1_end_,finish
+1_end_,conclude
+1_end_,draw to a close
+1_know_,be familiar with
+1_know_,be advanced in
+1_know_,learn
+1_know_,study
+1_know_,tell difference
+1_know_,distinguish
+1_know_,be cognisant of
+1_know_,be aware
+1_know_,notice
+1_know_,realize
+1_know_,be conscious
+1_know_,have knowledge
+1_know_,be informed
+1_know_,have information
+1_know_,recognize difference
+1_know_,understand
+1_know_,appreciate
+1_know_,apprised of
+1_know_,be conversant with
+1_know_,be acquainted with
+1_know_,have knowledge of
+1_know_,be versed in
+1_know_,be knowledgeable about
+1_know_,have mastered
+1_know_,grasp
+1_know_,comprehend
+1_know_,apprehend
+1_know_,acquire knowledge
+1_know_,acquire tool
+1_know_,have resource
+1_know_,be skilled with
+1_know_,be skilled in
+1_know_,be experienced with
+1_know_,have skill
+1_know_,develop skill
+1_want_,would like
+1_want_,would be grateful if
+1_want_,would appreciate it if
+1_want_,desire
+1_want_,need
+1_want_,long for
+1_want_,wish
+1_expressing_opinion_,think
+1_expressing_opinion_,feel about
+1_expressing_opinion_,view
+1_expressing_opinion_,regard
+1_expressing_opinion_,consider
+1_expressing_opinion_,be opinion 
+1_expressing_opinion_,have opinion 
+1_expressing_opinion_,give opinion
+1_expressing_opinion_,suggest
+1_expressing_opinion_,recommend
+1_expressing_opinion_,prefer
+1_expressing_opinion_,rather
+1_tell_,inform
+1_tell_,let know
+1_tell_,notify
+1_tell_,apprise
+1_tell_,relate
+1_tell_,recount
+1_tell_,narrate
+1_tell_,give account of
+1_tell_,set forth
+1_tell_,unfold
+1_tell_,retail
+1_tell_,mention to
+1_tell_,confess
+1_tell_,let into the secret
+1_tell_,brief
+1_tell_,fill in
+1_tell_,say
+1_tell_,portray
+1_tell_,describe
+1_tell_,sketch
+1_tell_,delineate
+1_tell_,depict
+1_tell_,paint
+1_tell_,show
+1_tell_,give information
+1_tell_,give details
+1_talk_,chat
+1_talk_,conversation
+1_talk_,speak
+1_talk_,gossip
+1_talk_,yak
+1_talk_,gab
+1_rita_,she
+1_rita_,your master
+1_rita_,your familiy member
+1_rita_,her
+1_rita_,the person behind this
+1_you_,the bot
+1_you_,this bot
+1_you_,you
+1_you_,u
+1_you_,your
+1_you_,ur
+1_arabianstories_,arabian stories
+1_arabianstories_,online repository of literature
+1_arabianstories_,project contemporary arabic literature
+1_arabianstories_,arabian literature
+1_pragmatrix_,dsr project
+1_pragmatrix_,ML project
+1_pragmatrix_,data science project literature
+1_pragmatrix_,first article Linkedin
+1_pragmatrix_,first project Github
+1_novel_,autobiography
+1_novel_,autobiographic work
+1_novel_,Entrevista
+1_koran_,quran
+1_koran_,qur'an
+1_koran_,islam
+1_koran_,muslim
+1_previous_company_,Parlamind
+1_previous_company_,Twyla
+1_previous_company_,the company rita work before
+1_previous_company_,the company rita work previously
+1_previous_company_,company she work for
+2_formality_,Can you tell me
+2_formality_,Could you tell me
+2_formality_,would you mind telling me
+2_formality_,If you do not mind telling me
+2_formality_,If you would not mind telling me
+2_formality_,excuse me
+2_formality_,I would like to know
+2_formality_,I would love to know
+2_formality_,If you were so kind as to tell me
+2_formality_,If you would be so kind as to tell me
+2_formality_,Do you know
+2_formality_,I want you could tell me
+2_formality_,I do not know
+2_formality_,Would you not happen to know
+2_formality_,Can you give me information
+2_formality_,hello
+2_formality_,hi
+2_formality_,hey
+2_formality_,howdy
+2_formality_,good morning
+2_formality_,good afternoon
+2_formality_,good evening
+2_formality_,good day
+2_formality_,good night
+2_formality_,bonjour
+2_formality_,merci
+2_formality_,thanks
+2_formality_,thank you
+2_formality_,gracias
+2_formality_,shukran
+2_who_,the person
+2_who_,whom
+2_child_,kid
+2_child_,girl
+2_child_,little person
+2_child_,teenager
+2_ML_engineer_,data scientist
+2_ML_engineer_,ML engineer
+2_ML_engineer_,NLP engineer
+2_when_,stage time
+2_when_,moment time
+2_when_,period time
+2_when_,the day
+2_when_,the month
+2_when_,the week
+2_when_,the year
+2_how_,which way
+2_how_,what way
+2_how_,the way
+2_exit_conv_,bye
+2_exit_conv_,goodbye
+2_exit_conv_,it be plasure talk with you
+2_exit_conv_,it be pleasure talk to you
+2_exit_conv_,I do not want to talk to you
+2_exit_conv_,I do not want to talk with you
+2_exit_conv_,end talk
+2_exit_conv_,exit
+2_exit_conv_,I want out of talk
+2_exit_conv_,I want to leave talk
+2_exit_conv_,I don't want to keep talking to you
+2_exit_conv_,I want to leave this screen
+2_exit_conv_,I want to leave this window
+2_exit_conv_,I want to leave this page
+2_exit_conv_,I want to leave this website
+2_exit_conv_,have a nice afternoon
+2_exit_conv_,have a nice day
+2_exit_conv_,have a nice evening
+2_exit_conv_,wish you all the best of luck

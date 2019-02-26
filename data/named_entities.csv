@@ -1,0 +1,418 @@
+,NE_key,NE_value0,len_val,NE_value
+0,1_you_,u,1,u
+1,0_programming_langs_,R,1,r
+2,0_programming_langs_,C,1,c
+3,2_formality_,hi,2,hi
+4,1_you_,ur,2,ur
+5,0_jose_,he,2,he
+6,0_artificial_intelligence_,ai,2,ai
+7,0_neural_nets_,nn,2,nn
+8,0_machine_learning_,ml,2,ml
+9,0_bot_,VA,2,va
+10,0_not_,nt,2,nt
+11,0_grandpa_,dad,3,dad
+12,0_tech_,AWS,3,aws
+13,0_tech_,GPU,3,gpu
+14,0_tech_,CPU,3,cpu
+15,0_tech_,SRE,3,sre
+16,0_tech_,IDE,3,ide
+17,1_you_,you,3,you
+18,0_neural_nets_,gru,3,gru
+19,1_rita_,her,3,her
+20,0_tech_,SAP,3,sap
+21,1_rita_,she,3,she
+22,1_talk_,gab,3,gab
+23,1_talk_,yak,3,yak
+24,0_NLP_,NLG,3,nlg
+25,0_NLP_,NLU,3,nlu
+26,0_have_,own,3,own
+27,0_not_,n't,3,n't
+28,1_tell_,say,3,say
+29,0_familiy_,mom,3,mom
+30,0_university_,uni,3,uni
+31,0_tech_,api,3,api
+32,0_neural_nets_,RNN,3,rnn
+33,0_programming_langs_,SQL,3,sql
+34,2_child_,kid,3,kid
+35,0_programming_langs_,PHP,3,php
+36,0_tech_,svn,3,svn
+37,0_tech_,git,3,git
+38,2_exit_conv_,bye,3,bye
+39,0_programming_langs_,css,3,css
+40,0_strange_,odd,3,odd
+41,2_formality_,hey,3,hey
+42,2_who_,whom,4,whom
+43,0_genital_,knob,4,knob
+44,0_genital_,cock,4,cock
+45,0_genital_,dick,4,dick
+46,2_child_,girl,4,girl
+47,0_programming_langs_,Ruby,4,ruby
+48,0_programming_langs_,Rust,4,rust
+49,1_expressing_opinion_,view,4,view
+50,0_brave_,bold,4,bold
+51,1_want_,wish,4,wish
+52,1_want_,need,4,need
+53,0_programming_langs_,Perl,4,perl
+54,2_exit_conv_,exit,4,exit
+55,0_programming_langs_,Java,4,java
+56,0_VA_providers_,rasa,4,rasa
+57,0_neural_nets_,lstm,4,lstm
+58,0_jose_,Jose,4,jose
+59,0_genital_,quim,4,quim
+60,0_alexa_,siri,4,siri
+61,0_tech_,Unix,4,unix
+62,0_nice_,cool,4,cool
+63,0_nice_,fine,4,fine
+64,1_tell_,show,4,show
+65,0_genital_,twat,4,twat
+66,1_talk_,chat,4,chat
+67,0_good_,deft,4,deft
+68,0_tech_,REST,4,rest
+69,1_you_,your,4,your
+70,0_tech_,SPSS,4,spss
+71,0_programming_langs_,HTML,4,html
+72,1_end_,stop,4,stop
+73,0_nice_,cute,4,cute
+74,0_have_,boast,5,boast
+75,0_brave_,gutsy,5,gutsy
+76,0_give_,offer,5,offer
+77,0_genital_,fanny,5,fanny
+78,1_start_,begin,5,begin
+79,0_genital_,minge,5,minge
+80,0_good_,adept,5,adept
+81,0_strange_,weird,5,weird
+82,0_genital_,willy,5,willy
+83,0_bot_,botty,5,botty
+84,0_humankind_,human,5,human
+85,0_genital_,penis,5,penis
+86,0_jose_,hubby,5,hubby
+87,0_jose_,Johan,5,johan
+88,0_genital_,prick,5,prick
+89,0_genital_,snake,5,snake
+90,0_genital_,pussy,5,pussy
+91,0_ML_tool_,spacy,5,spacy
+92,0_other_languages_,hindi,5,hindi
+93,1_end_,cease,5,cease
+94,1_tell_,brief,5,brief
+95,1_koran_,quran,5,quran
+96,0_tech_,Kafka,5,kafka
+97,1_koran_,islam,5,islam
+98,0_tech_,Linux,5,linux
+99,1_previous_company_,Twyla,5,twyla
+100,1_tell_,paint,5,paint
+101,2_formality_,hello,5,hello
+102,2_formality_,howdy,5,howdy
+103,0_ML_tool_,keras,5,kera
+104,0_programming_langs_,NoSQL,5,nosql
+105,1_expressing_opinion_,think,5,think
+106,0_programming_langs_,Scala,5,scala
+107,1_know_,grasp,5,grasp
+108,0_programming_langs_,Swift,5,swift
+109,1_know_,study,5,study
+110,1_know_,learn,5,learn
+111,2_formality_,merci,5,merci
+112,1_talk_,speak,5,speak
+113,2_formality_,thanks,6,thank
+114,0_brave_,ballsy,6,ballsy
+115,1_koran_,muslim,6,muslim
+116,0_good_,gifted,6,gifted
+117,1_koran_,qur'an,6,qur'an
+118,0_good_,adroit,6,adroit
+119,1_talk_,gossip,6,gossip
+120,1_end_,finish,6,finish
+121,1_tell_,sketch,6,sketch
+122,1_know_,notice,6,notice
+123,1_want_,desire,6,desire
+124,0_bot_,bottie,6,bottie
+125,1_expressing_opinion_,regard,6,regard
+126,1_expressing_opinion_,prefer,6,prefer
+127,1_expressing_opinion_,rather,6,rather
+128,0_grandpa_,father,6,father
+129,1_tell_,depict,6,depict
+130,1_tell_,inform,6,inform
+131,0_familiy_,sister,6,sister
+132,0_jose_,fiance,6,fiance
+133,0_brave_,plucky,6,plucky
+134,1_tell_,notify,6,notify
+135,1_tell_,relate,6,relate
+136,1_tell_,unfold,6,unfold
+137,1_tell_,retail,6,retail
+138,0_familiy_,mother,6,mother
+139,0_jose_,Joseph,6,joseph
+140,0_programming_langs_,Python,6,python
+141,0_VA_providers_,watson,6,watson
+142,0_genital_,snatch,6,snatch
+143,0_programming_langs_,Matlab,6,matlab
+144,0_programming_langs_,Octave,6,octave
+145,0_tech_,hadoop,6,hadoop
+146,0_tech_,Docker,6,docker
+147,0_other_languages_,korean,6,korean
+148,0_tech_,Apache,6,apache
+149,0_other_languages_,hebrew,6,hebrew
+150,0_VA_providers_,wit.ai,6,wit.ai
+151,0_genital_,vagina,6,vagina
+152,0_genital_,pecker,6,pecker
+153,0_genital_,wiener,6,wiener
+154,0_tech_,Cognos,6,cogno
+155,0_other_languages_,french,6,french
+156,0_programming_langs_,django,6,django
+157,0_ML_tool_,gensim,6,gensim
+158,0_tech_,Looker,6,looker
+159,2_formality_,shukran,7,shukran
+160,0_have_,acquire,7,acquire
+161,0_have_,possess,7,possess
+162,1_tell_,recount,7,recount
+163,0_VA_providers_,luis.ai,7,luis.ai
+164,0_alexa_,cortana,7,cortana
+165,0_give_,provide,7,provide
+166,0_university_,college,7,college
+167,0_bot_,chatbot,7,chatbot
+168,0_master_,creator,7,creator
+169,2_formality_,gracias,7,gracia
+170,1_know_,realize,7,realize
+171,0_programming_langs_,Fortran,7,fortran
+172,1_tell_,apprise,7,apprise
+173,0_ML_tool_,xgboost,7,xgboost
+174,1_expressing_opinion_,suggest,7,suggest
+175,1_tell_,confess,7,confess
+176,0_ML_tool_,sklearn,7,sklearn
+177,1_tell_,fill in,7,"fill\b([\w\-_]*\s){0,3}\bin"
+178,0_ML_tool_,ml tool,7,"ml\b([\w\-_]*\s){0,3}\btool"
+179,1_tell_,portray,7,portray
+180,0_tech_,MongoDB,7,mongodb
+181,1_you_,the bot,7,"the\b([\w\-_]*\s){0,3}\bbot"
+182,0_neural_nets_,seq2seq,7,seq2seq
+183,0_tech_,Tableau,7,tableau
+184,0_tech_,RESTful,7,restful
+185,0_tech_,Dev ops,7,"dev\b([\w\-_]*\s){0,3}\bop"
+186,0_image_,picture,7,picture
+187,2_formality_,bonjour,7,bonjour
+188,0_neural_nets_,seq seq,7,"seq\b([\w\-_]*\s){0,3}\bseq"
+189,0_neural_nets_,doc2vec,7,doc2vec
+190,2_when_,the day,7,"the\b([\w\-_]*\s){0,3}\bday"
+191,0_other_languages_,turkish,7,turkish
+192,0_familiy_,sibling,7,sibl
+193,0_genital_,genital,7,genital
+194,0_good_,skilful,7,skilful
+195,2_how_,the way,7,"the\b([\w\-_]*\s){0,3}\bway"
+196,0_programming_langs_,node.js,7,node.js
+197,0_strange_,uncanny,7,uncanny
+198,0_strange_,unusual,7,unusual
+199,0_genital_,chopper,7,chopper
+200,0_familiy_,brother,7,brother
+201,2_exit_conv_,goodbye,7,goodbye
+202,0_nice_,awesome,7,awesome
+203,0_other_languages_,aramaic,7,aramaic
+204,0_nice_,amazing,7,amazing
+205,0_other_languages_,italian,7,italian
+206,0_other_languages_,serbian,7,serbian
+207,0_other_languages_,chinese,7,chinese
+208,0_jose_,husband,7,husband
+209,1_tell_,narrate,7,narrate
+210,2_formality_,good day,8,"good\b([\w\-_]*\s){0,3}\bday"
+211,2_when_,the year,8,"the\b([\w\-_]*\s){0,3}\byear"
+212,0_master_,designer,8,designer
+213,1_know_,be aware,8,"be\b([\w\-_]*\s){0,3}\baware"
+214,0_other_languages_,sanscrit,8,sanscrit
+215,0_strange_,uncommon,8,uncommon
+216,2_when_,the week,8,"the\b([\w\-_]*\s){0,3}\bweek"
+217,0_strange_,abnormal,8,abnormal
+218,0_neural_nets_,word2vec,8,word2vec
+219,0_other_languages_,japanese,8,japanese
+220,0_brave_,unafraid,8,unafraid
+221,0_brave_,resolute,8,resolute
+222,1_want_,long for,8,"long\b([\w\-_]*\s){0,3}\bfor"
+223,1_tell_,describe,8,describe
+224,0_tech_,Qlikview,8,qlikview
+225,1_you_,this bot,8,"this\b([\w\-_]*\s){0,3}\bbot"
+226,2_exit_conv_,end talk,8,"end\b([\w\-_]*\s){0,3}\btalk"
+227,1_expressing_opinion_,consider,8,consider
+228,0_brave_,fearless,8,fearless
+229,0_grandpa_,granddad,8,granddad
+230,1_tell_,let know,8,"let\b([\w\-_]*\s){0,3}\bknow"
+231,2_child_,teenager,8,teenager
+232,0_good_,adequate,8,adequate
+233,2_how_,what way,8,"what\b([\w\-_]*\s){0,3}\bway"
+234,1_start_,initiate,8,initiate
+235,1_start_,kick off,8,"kick\b([\w\-_]*\s){0,3}\boff"
+236,0_good_,talented,8,talented
+237,1_end_,conclude,8,conclude
+238,1_tell_,delineate,9,delineate
+239,0_ML_tool_,regressor,9,regressor
+240,1_know_,apprehend,9,apprehend
+241,2_when_,the month,9,"the\b([\w\-_]*\s){0,3}\bmonth"
+242,0_genital_,lady part,9,"lady\b([\w\-_]*\s){0,3}\bpart"
+243,0_nice_,beautiful,9,beautiful
+244,0_nice_,fantastic,9,fantastic
+245,2_how_,which way,9,"which\b([\w\-_]*\s){0,3}\bway"
+246,2_formality_,thank you,9,"thank\b([\w\-_]*\s){0,3}\byou"
+247,1_previous_company_,Parlamind,9,parlamind
+248,1_tell_,set forth,9,"set\b([\w\-_]*\s){0,3}\bforth"
+249,1_expressing_opinion_,recommend,9,recommend
+250,2_formality_,excuse me,9,"excuse\b([\w\-_]*\s){0,3}\bme"
+251,0_jose_,boyfriend,9,boyfriend
+252,0_give_,gift with,9,"gift\b([\w\-_]*\s){0,3}\bwith"
+253,0_engineer_,developer,9,developer
+254,0_good_,competent,9,competent
+255,0_other_languages_,portuguese,10,portuguese
+256,0_arab_world_,arab world,10,"arab\b([\w\-_]*\s){0,3}\bworld"
+257,0_neural_nets_,embeddings,10,embedding
+258,1_tell_,mention to,10,"mention\b([\w\-_]*\s){0,3}\bto"
+259,0_brave_,courageous,10,courageous
+260,1_want_,would like,10,"would\b([\w\-_]*\s){0,3}\blike"
+261,0_ML_tool_,classifier,10,classifier
+262,2_when_,stage time,10,"stage\b([\w\-_]*\s){0,3}\btime"
+263,1_expressing_opinion_,feel about,10,"feel\b([\w\-_]*\s){0,3}\babout"
+264,0_programming_langs_,JavaScript,10,javascript
+265,0_engineer_,programmer,10,programmer
+266,1_pragmatrix_,ML project,10,"ml\b([\w\-_]*\s){0,3}\bproject"
+267,0_nice_,incredible,10,incredible
+268,0_bot_,chatterine,10,chatterine
+269,0_VA_providers_,dialogflow,10,dialogflow
+270,0_good_,proficient,10,proficient
+271,0_give_,share with,10,"share\b([\w\-_]*\s){0,3}\bwith"
+272,2_who_,the person,10,"the\b([\w\-_]*\s){0,3}\bperson"
+273,0_good_,acceptable,10,acceptable
+274,0_project_,initiative,10,initiative
+275,0_programming_langs_,tensorflow,10,tensorflow
+276,1_know_,have skill,10,"have\b([\w\-_]*\s){0,3}\bskill"
+277,0_tech_,Kubernetes,10,kubernete
+278,2_formality_,good night,10,"good\b([\w\-_]*\s){0,3}\bnight"
+279,1_know_,appreciate,10,appreciate
+280,0_before_,previously,10,previously
+281,1_novel_,Entrevista,10,entrevista
+282,0_nice_,remarkable,10,remarkable
+283,1_know_,comprehend,10,comprehend
+284,0_tech_,IBM Cognos,10,"ibm\b([\w\-_]*\s){0,3}\bcognos"
+285,1_know_,understand,10,understand
+286,2_when_,moment time,11,"moment\b([\w\-_]*\s){0,3}\btime"
+287,1_pragmatrix_,dsr project,11,"dsr\b([\w\-_]*\s){0,3}\bproject"
+288,2_when_,period time,11,"period\b([\w\-_]*\s){0,3}\btime"
+289,2_ML_engineer_,ML engineer,11,"ml\b([\w\-_]*\s){0,3}\bengineer"
+290,1_rita_,your master,11,"your\b([\w\-_]*\s){0,3}\bmaster"
+291,2_formality_,Do you know,11,"do\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bknow"
+292,1_expressing_opinion_,be opinion ,11,"be\b([\w\-_]*\s){0,3}\bopinion"
+293,0_jose_,better half,11,"good\b([\w\-_]*\s){0,3}\bhalf"
+294,0_familiy_,grandmother,11,grandmother
+295,0_grandpa_,grandfather,11,grandfather
+296,1_know_,apprised of,11,"apprise\b([\w\-_]*\s){0,3}\bof"
+297,0_neural_nets_,doc to vec ,11,"doc\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bvec"
+298,0_neural_nets_,word to vec,11,"word\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bvec"
+299,1_know_,distinguish,11,distinguish
+300,0_nice_,outstanding,11,outstanding
+301,1_know_,be informed,11,"be\b([\w\-_]*\s){0,3}\binform"
+302,0_give_,supply with,11,"supply\b([\w\-_]*\s){0,3}\bwith"
+303,0_nice_,spectacular,11,spectacular
+304,0_brave_,unflinching,11,unflinch
+305,0_arab_world_,arab country,12,"arab\b([\w\-_]*\s){0,3}\bcountry"
+306,2_ML_engineer_,NLP engineer,12,"nlp\b([\w\-_]*\s){0,3}\bengineer"
+307,1_talk_,conversation,12,conversation
+308,1_know_,be versed in,12,"be\b([\w\-_]*\s){0,3}\bverse\b([\w\-_]*\s){0,3}\bin"
+309,1_tell_,give details,12,"give\b([\w\-_]*\s){0,3}\bdetail"
+310,1_know_,acquire tool,12,"acquire\b([\w\-_]*\s){0,3}\btool"
+311,2_formality_,good evening,12,"good\b([\w\-_]*\s){0,3}\bevening"
+312,0_give_,provide with,12,"provide\b([\w\-_]*\s){0,3}\bwith"
+313,0_machine_learning_,data science,12,"data\b([\w\-_]*\s){0,3}\bscience"
+314,2_formality_,good morning,12,"good\b([\w\-_]*\s){0,3}\bmorning"
+315,0_good_,accomplished,12,accomplish
+316,0_good_,satisfactory,12,satisfactory
+317,1_know_,be conscious,12,"be\b([\w\-_]*\s){0,3}\bconscious"
+318,1_expressing_opinion_,give opinion,12,"give\b([\w\-_]*\s){0,3}\bopinion"
+319,0_arab_world_,arabic world,12,"arabic\b([\w\-_]*\s){0,3}\bworld"
+320,2_formality_,I do not know,13,"I\b([\w\-_]*\s){0,3}\bdo\b([\w\-_]*\s){0,3}\bnot\b([\w\-_]*\s){0,3}\bknow"
+321,1_know_,have mastered,13,"have\b([\w\-_]*\s){0,3}\bmaster"
+322,0_ML_tool_,random forest,13,"random\b([\w\-_]*\s){0,3}\bforest"
+323,1_know_,develop skill,13,"develop\b([\w\-_]*\s){0,3}\bskill"
+324,0_have_,have received,13,"have\b([\w\-_]*\s){0,3}\breceive"
+325,2_child_,little person,13,"little\b([\w\-_]*\s){0,3}\bperson"
+326,1_know_,be skilled in,13,"be\b([\w\-_]*\s){0,3}\bskilled\b([\w\-_]*\s){0,3}\bin"
+327,0_arab_world_,islamic world,13,"islamic\b([\w\-_]*\s){0,3}\bworld"
+328,0_neural_nets_,deep learning,13,"deep\b([\w\-_]*\s){0,3}\blearning"
+329,1_expressing_opinion_,have opinion ,13,"have\b([\w\-_]*\s){0,3}\bopinion"
+330,1_know_,have resource,13,"have\b([\w\-_]*\s){0,3}\bresource"
+331,1_novel_,autobiography,13,autobiography
+332,0_neural_nets_,pooling layers,14,"pool\b([\w\-_]*\s){0,3}\blayer"
+333,1_know_,be advanced in,14,"be\b([\w\-_]*\s){0,3}\badvance\b([\w\-_]*\s){0,3}\bin"
+334,2_ML_engineer_,data scientist,14,"datum\b([\w\-_]*\s){0,3}\bscientist"
+335,0_arab_world_,arabic country,14,"arabic\b([\w\-_]*\s){0,3}\bcountry"
+336,2_formality_,good afternoon,14,"good\b([\w\-_]*\s){0,3}\bafternoon"
+337,0_arab_world_,muslim country,14,"muslim\b([\w\-_]*\s){0,3}\bcountry"
+338,1_know_,have knowledge,14,"have\b([\w\-_]*\s){0,3}\bknowledge"
+339,0_neural_nets_,neural network,14,"neural\b([\w\-_]*\s){0,3}\bnetwork"
+340,0_neural_nets_,word to vector,14,"word\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bvector"
+341,1_know_,tell difference,15,"tell\b([\w\-_]*\s){0,3}\bdifference"
+342,2_exit_conv_,have a nice day,15,"have\b([\w\-_]*\s){0,3}\ba\b([\w\-_]*\s){0,3}\bnice\b([\w\-_]*\s){0,3}\bday"
+343,1_know_,be cognisant of,15,"be\b([\w\-_]*\s){0,3}\bcognisant\b([\w\-_]*\s){0,3}\bof"
+344,1_end_,draw to a close,15,"draw\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\ba\b([\w\-_]*\s){0,3}\bclose"
+345,0_tech_,version control,15,"version\b([\w\-_]*\s){0,3}\bcontrol"
+346,1_know_,be skilled with,15,"be\b([\w\-_]*\s){0,3}\bskilled\b([\w\-_]*\s){0,3}\bwith"
+347,1_arabianstories_,arabian stories,15,"arabian\b([\w\-_]*\s){0,3}\bstory"
+348,2_formality_,Can you tell me,15,"can\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+349,1_tell_,give account of,15,"give\b([\w\-_]*\s){0,3}\baccount\b([\w\-_]*\s){0,3}\bof"
+350,0_arab_world_,islamic country,15,"islamic\b([\w\-_]*\s){0,3}\bcountry"
+351,1_know_,be familiar with,16,"be\b([\w\-_]*\s){0,3}\bfamiliar\b([\w\-_]*\s){0,3}\bwith"
+352,1_tell_,give information,16,"give\b([\w\-_]*\s){0,3}\binformation"
+353,0_tech_,software package,16,"software\b([\w\-_]*\s){0,3}\bpackage"
+354,1_know_,have information,16,"have\b([\w\-_]*\s){0,3}\binformation"
+355,0_machine_learning_,machine learning,16,"machine\b([\w\-_]*\s){0,3}\blearning"
+356,2_formality_,Could you tell me,17,"could\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+357,1_know_,have knowledge of,17,"have\b([\w\-_]*\s){0,3}\bknowledge\b([\w\-_]*\s){0,3}\bof"
+358,0_programming_langs_,computer language,17,"computer\b([\w\-_]*\s){0,3}\blanguage"
+359,1_know_,acquire knowledge,17,"acquire\b([\w\-_]*\s){0,3}\bknowledge"
+360,0_bot_,virtual assistant,17,"virtual\b([\w\-_]*\s){0,3}\bassistant"
+361,1_know_,be acquainted with,18,"be\b([\w\-_]*\s){0,3}\bacquaint\b([\w\-_]*\s){0,3}\bwith"
+362,0_neural_nets_,document to vector,18,"document\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bvector"
+363,1_arabianstories_,arabian literature,18,"arabian\b([\w\-_]*\s){0,3}\bliterature"
+364,2_exit_conv_,I want out of talk,18,"I\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bout\b([\w\-_]*\s){0,3}\bof\b([\w\-_]*\s){0,3}\btalk"
+365,1_know_,be conversant with,18,"be\b([\w\-_]*\s){0,3}\bconversant\b([\w\-_]*\s){0,3}\bwith"
+366,1_rita_,your familiy member,19,"your\b([\w\-_]*\s){0,3}\bfamiliy\b([\w\-_]*\s){0,3}\bmember"
+367,1_tell_,let into the secret,19,"let\b([\w\-_]*\s){0,3}\binto\b([\w\-_]*\s){0,3}\bthe\b([\w\-_]*\s){0,3}\bsecret"
+368,1_know_,be experienced with,19,"be\b([\w\-_]*\s){0,3}\bexperience\b([\w\-_]*\s){0,3}\bwith"
+369,0_ML_tool_,logistic regression,19,"logistic\b([\w\-_]*\s){0,3}\bregression"
+370,1_novel_,autobiographic work,19,"autobiographic\b([\w\-_]*\s){0,3}\bwork"
+371,2_exit_conv_,have a nice evening,19,"have\b([\w\-_]*\s){0,3}\ba\b([\w\-_]*\s){0,3}\bnice\b([\w\-_]*\s){0,3}\bevening"
+372,1_want_,would be grateful if,20,"would\b([\w\-_]*\s){0,3}\bbe\b([\w\-_]*\s){0,3}\bgrateful\b([\w\-_]*\s){0,3}\bif"
+373,2_exit_conv_,I want to leave talk,20,"I\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bleave\b([\w\-_]*\s){0,3}\btalk"
+374,0_neural_nets_,convolutional layers,20,"convolutional\b([\w\-_]*\s){0,3}\blayer"
+375,0_programming_langs_,programming language,20,"programming\b([\w\-_]*\s){0,3}\blanguage"
+376,0_neural_nets_,sequence to sequence,20,"sequence\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bsequence"
+377,1_know_,recognize difference,20,"recognize\b([\w\-_]*\s){0,3}\bdifference"
+378,1_previous_company_,company she work for,20,"company\b([\w\-_]*\s){0,3}\bshe\b([\w\-_]*\s){0,3}\bwork\b([\w\-_]*\s){0,3}\bfor"
+379,0_tech_,open-source software,20,"open\b([\w\-_]*\s){0,3}\b-\b([\w\-_]*\s){0,3}\bsource\b([\w\-_]*\s){0,3}\bsoftware"
+380,1_pragmatrix_,first project Github,20,"first\b([\w\-_]*\s){0,3}\bproject\b([\w\-_]*\s){0,3}\bgithub"
+381,2_formality_,I would love to know,20,"I\b([\w\-_]*\s){0,3}\bwould\b([\w\-_]*\s){0,3}\blove\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bknow"
+382,2_formality_,I would like to know,20,"I\b([\w\-_]*\s){0,3}\bwould\b([\w\-_]*\s){0,3}\blike\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bknow"
+383,2_exit_conv_,have a nice afternoon,21,"have\b([\w\-_]*\s){0,3}\ba\b([\w\-_]*\s){0,3}\bnice\b([\w\-_]*\s){0,3}\bafternoon"
+384,0_tech_,System administration,21,"system\b([\w\-_]*\s){0,3}\badministration"
+385,1_pragmatrix_,first article Linkedin,22,"first\b([\w\-_]*\s){0,3}\barticle\b([\w\-_]*\s){0,3}\blinkedin"
+386,1_know_,be knowledgeable about,22,"be\b([\w\-_]*\s){0,3}\bknowledgeable\b([\w\-_]*\s){0,3}\babout"
+387,1_rita_,the person behind this,22,"the\b([\w\-_]*\s){0,3}\bperson\b([\w\-_]*\s){0,3}\bbehind\b([\w\-_]*\s){0,3}\bthis"
+388,1_want_,would appreciate it if,22,"would\b([\w\-_]*\s){0,3}\bappreciate\b([\w\-_]*\s){0,3}\bit\b([\w\-_]*\s){0,3}\bif"
+389,0_artificial_intelligence_,artificial intelligence,23,"artificial\b([\w\-_]*\s){0,3}\bintelligence"
+390,2_formality_,I want you could tell me,24,"I\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bcould\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+391,2_formality_,would you mind telling me,25,"would\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bmind\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+392,0_neural_nets_,recurring neural networks,25,"recur\b([\w\-_]*\s){0,3}\bneural\b([\w\-_]*\s){0,3}\bnetwork"
+393,2_exit_conv_,I want to leave this page,25,"I\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bleave\b([\w\-_]*\s){0,3}\bthis\b([\w\-_]*\s){0,3}\bpage"
+394,2_exit_conv_,it be pleasure talk to you,26,"it\b([\w\-_]*\s){0,3}\bbe\b([\w\-_]*\s){0,3}\bpleasure\b([\w\-_]*\s){0,3}\btalk\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\byou"
+395,2_exit_conv_,I want to leave this window,27,"I\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bleave\b([\w\-_]*\s){0,3}\bthis\b([\w\-_]*\s){0,3}\bwindow"
+396,2_exit_conv_,I want to leave this screen,27,"I\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bleave\b([\w\-_]*\s){0,3}\bthis\b([\w\-_]*\s){0,3}\bscreen"
+397,0_NLP_,natural language generating,27,"natural\b([\w\-_]*\s){0,3}\blanguage\b([\w\-_]*\s){0,3}\bgenerating"
+398,2_formality_,Can you give me information,27,"can\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bgive\b([\w\-_]*\s){0,3}\bme\b([\w\-_]*\s){0,3}\binformation"
+399,2_exit_conv_,it be plasure talk with you,27,"it\b([\w\-_]*\s){0,3}\bbe\b([\w\-_]*\s){0,3}\bplasure\b([\w\-_]*\s){0,3}\btalk\b([\w\-_]*\s){0,3}\bwith\b([\w\-_]*\s){0,3}\byou"
+400,0_NLP_,Natural language processing,27,"natural\b([\w\-_]*\s){0,3}\blanguage\b([\w\-_]*\s){0,3}\bprocessing"
+401,2_exit_conv_,I want to leave this website,28,"I\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bleave\b([\w\-_]*\s){0,3}\bthis\b([\w\-_]*\s){0,3}\bwebsite"
+402,2_formality_,Would you not happen to know,28,"would\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bnot\b([\w\-_]*\s){0,3}\bhappen\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bknow"
+403,1_previous_company_,the company rita work before,28,"the\b([\w\-_]*\s){0,3}\bcompany\b([\w\-_]*\s){0,3}\brita\b([\w\-_]*\s){0,3}\bwork\b([\w\-_]*\s){0,3}\bbefore"
+404,2_exit_conv_,I do not want to talk to you,28,"I\b([\w\-_]*\s){0,3}\bdo\b([\w\-_]*\s){0,3}\bnot\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\btalk\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\byou"
+405,2_exit_conv_,wish you all the best of luck,29,"wish\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\ball\b([\w\-_]*\s){0,3}\bthe\b([\w\-_]*\s){0,3}\bgood\b([\w\-_]*\s){0,3}\bof\b([\w\-_]*\s){0,3}\bluck"
+406,2_formality_,If you do not mind telling me,29,"if\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bdo\b([\w\-_]*\s){0,3}\bnot\b([\w\-_]*\s){0,3}\bmind\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+407,0_NLP_,natural language understanding,30,"natural\b([\w\-_]*\s){0,3}\blanguage\b([\w\-_]*\s){0,3}\bunderstanding"
+408,2_exit_conv_,I do not want to talk with you,30,"I\b([\w\-_]*\s){0,3}\bdo\b([\w\-_]*\s){0,3}\bnot\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\btalk\b([\w\-_]*\s){0,3}\bwith\b([\w\-_]*\s){0,3}\byou"
+409,1_arabianstories_,online repository of literature,31,"online\b([\w\-_]*\s){0,3}\brepository\b([\w\-_]*\s){0,3}\bof\b([\w\-_]*\s){0,3}\bliterature"
+410,1_pragmatrix_,data science project literature,31,"data\b([\w\-_]*\s){0,3}\bscience\b([\w\-_]*\s){0,3}\bproject\b([\w\-_]*\s){0,3}\bliterature"
+411,1_previous_company_,the company rita work previously,32,"the\b([\w\-_]*\s){0,3}\bcompany\b([\w\-_]*\s){0,3}\brita\b([\w\-_]*\s){0,3}\bwork\b([\w\-_]*\s){0,3}\bpreviously"
+412,2_formality_,If you would not mind telling me,32,"if\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bwould\b([\w\-_]*\s){0,3}\bnot\b([\w\-_]*\s){0,3}\bmind\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+413,2_formality_,If you were so kind as to tell me,33,"if\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bbe\b([\w\-_]*\s){0,3}\bso\b([\w\-_]*\s){0,3}\bkind\b([\w\-_]*\s){0,3}\bas\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+414,2_exit_conv_,I don't want to keep talking to you,35,"I\b([\w\-_]*\s){0,3}\bdo\b([\w\-_]*\s){0,3}\bnot\b([\w\-_]*\s){0,3}\bwant\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\bkeep\b([\w\-_]*\s){0,3}\btalk\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\byou"
+415,2_formality_,If you would be so kind as to tell me,37,"if\b([\w\-_]*\s){0,3}\byou\b([\w\-_]*\s){0,3}\bwould\b([\w\-_]*\s){0,3}\bbe\b([\w\-_]*\s){0,3}\bso\b([\w\-_]*\s){0,3}\bkind\b([\w\-_]*\s){0,3}\bas\b([\w\-_]*\s){0,3}\bto\b([\w\-_]*\s){0,3}\btell\b([\w\-_]*\s){0,3}\bme"
+416,1_arabianstories_,project contemporary arabic literature,38,"project\b([\w\-_]*\s){0,3}\bcontemporary\b([\w\-_]*\s){0,3}\barabic\b([\w\-_]*\s){0,3}\bliterature"

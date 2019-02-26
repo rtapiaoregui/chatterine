@@ -1,0 +1,7 @@
+runtime: python37
+instance_class: F4_1G
+env_variables:
+  CLOUD_STORAGE_BUCKET: data_chatterine
+  SERVER_TYPE: GCP
+  MODELS_STORAGE_BUCKET: casting
+  VERBOSE: False
